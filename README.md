@@ -26,4 +26,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 
 
     
-🎇👩🏾‍🚀 Sempre aprendendo e evoluindo como desenvolvedor. 🎇👩🏾‍🚀
+
