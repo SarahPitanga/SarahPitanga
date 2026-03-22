@@ -24,4 +24,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 </div>
 
 
-🎇👩🏾‍🚀*“Sempre aprendendo e evoluindo como desenvolvedor.”* 🎇👩🏾‍🚀
+
+    
+🎇👩🏾‍🚀 Sempre aprendendo e evoluindo como desenvolvedor. 🎇👩🏾‍🚀
