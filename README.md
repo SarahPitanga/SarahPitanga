@@ -4,7 +4,7 @@
 
 🤓Focada em Python, HTML e CSS
 
-🚀Preparando-se para o mercado de tecnologia
+🚀Preparando-me para o mercado de tecnologia
 
 📬Contato: sarah.pitanga@hotmail.com
 
